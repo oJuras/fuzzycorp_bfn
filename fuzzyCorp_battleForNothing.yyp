@@ -42,6 +42,7 @@
   "resources": [
     {"id":{"name":"Obj_menu","path":"objects/Obj_menu/Obj_menu.yy",},},
     {"id":{"name":"soloRoom","path":"rooms/soloRoom/soloRoom.yy",},},
+    {"id":{"name":"Obj_characterSelection","path":"objects/Obj_characterSelection/Obj_characterSelection.yy",},},
     {"id":{"name":"Font_8bit","path":"fonts/Font_8bit/Font_8bit.yy",},},
     {"id":{"name":"fightingRoom","path":"rooms/fightingRoom/fightingRoom.yy",},},
     {"id":{"name":"soloSelection","path":"rooms/soloSelection/soloSelection.yy",},},
