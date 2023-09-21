@@ -24,7 +24,7 @@ for(var i = 0; i < op_max; i++){
 	var y2 =  y1 + (dist * i);
 
 	draw_set_halign(fa_center)
-
+//test
 	var string_w = string_width(menuOptions[i]);
 	var string_h = string_height(menuOptions[i]);
 	
