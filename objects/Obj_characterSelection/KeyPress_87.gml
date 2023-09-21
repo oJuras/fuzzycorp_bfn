@@ -1,7 +1,7 @@
 if(!selected){
-	index--;
+	global.index1--;
 }
 
-if(index < 0 && !selected){
-	index = op_max-1;
+if(global.index1 < 0 && !selected){
+	global.index1 = op_max-1;
 }

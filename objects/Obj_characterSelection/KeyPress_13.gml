@@ -1,19 +1,19 @@
-if(index == 0){
+if(global.index1 == 0){
 	//room_goto(soloSelection);
 	selected = true;
 }
 
-if(index == 1){
+if(global.index1 == 1){
 	//room_goto(characterSelection);
 	selected = true;
 }
 
-if(index == 2){
+if(global.index1 == 2){
 	//room_goto(options);
 	selected = true;
 }
 
-if(index == 3){
+if(global.index1 == 3){
 	//game_end()	
 	selected = true;
 }

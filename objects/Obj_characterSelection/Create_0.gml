@@ -1,6 +1,6 @@
 menuOptions = ["Zattori", "V.H.", "Big Melone", "Mr. Mendozza"];
 
-index = 0;
+global.index1 = 0;
 
 selected = false;
 
