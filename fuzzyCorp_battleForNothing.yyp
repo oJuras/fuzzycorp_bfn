@@ -42,9 +42,12 @@
   "resources": [
     {"id":{"name":"Obj_menu","path":"objects/Obj_menu/Obj_menu.yy",},},
     {"id":{"name":"soloRoom","path":"rooms/soloRoom/soloRoom.yy",},},
+    {"id":{"name":"Obj_codeBox","path":"objects/Obj_codeBox/Obj_codeBox.yy",},},
     {"id":{"name":"Obj_characterSelection","path":"objects/Obj_characterSelection/Obj_characterSelection.yy",},},
+    {"id":{"name":"Obj_roomFinder","path":"objects/Obj_roomFinder/Obj_roomFinder.yy",},},
     {"id":{"name":"Font_8bit","path":"fonts/Font_8bit/Font_8bit.yy",},},
     {"id":{"name":"fightingRoom","path":"rooms/fightingRoom/fightingRoom.yy",},},
+    {"id":{"name":"Spr_codeBox","path":"sprites/Spr_codeBox/Spr_codeBox.yy",},},
     {"id":{"name":"soloSelection","path":"rooms/soloSelection/soloSelection.yy",},},
     {"id":{"name":"options","path":"rooms/options/options.yy",},},
     {"id":{"name":"initialMenu","path":"rooms/initialMenu/initialMenu.yy",},},

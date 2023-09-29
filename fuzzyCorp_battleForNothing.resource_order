@@ -18,7 +18,9 @@
   ],
   "ResourceOrderSettings": [
     {"name":"soloRoom","order":5,"path":"rooms/soloRoom/soloRoom.yy",},
+    {"name":"Obj_codeBox","order":3,"path":"objects/Obj_codeBox/Obj_codeBox.yy",},
     {"name":"Obj_characterSelection","order":1,"path":"objects/Obj_characterSelection/Obj_characterSelection.yy",},
+    {"name":"Obj_roomFinder","order":2,"path":"objects/Obj_roomFinder/Obj_roomFinder.yy",},
     {"name":"fightingRoom","order":2,"path":"rooms/fightingRoom/fightingRoom.yy",},
     {"name":"soloSelection","order":4,"path":"rooms/soloSelection/soloSelection.yy",},
     {"name":"options","order":3,"path":"rooms/options/options.yy",},
